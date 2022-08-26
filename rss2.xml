@@ -9,8 +9,33 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Grow like summer flower magnificently, die like autumn leaf quietly and beautifully!</description>
-    <pubDate>Fri, 26 Aug 2022 07:14:49 GMT</pubDate>
+    <pubDate>Fri, 26 Aug 2022 08:34:42 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>hexotest</title>
+      <link>http://example.com/2022/08/26/hexotest/</link>
+      <guid>http://example.com/2022/08/26/hexotest/</guid>
+      <pubDate>Fri, 26 Aug 2022 08:27:22 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;just test &lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>just test </p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/hexo/">hexo</category>
+      
+      
+      <comments>http://example.com/2022/08/26/hexotest/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
